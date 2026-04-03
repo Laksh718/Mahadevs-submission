@@ -249,7 +249,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Connect With Us
 - **Website**: [https://janrakshak.web.app](https://janrakshak.web.app)
 - **Email**: [laksh.baweja@gmail.com](mailto:laksh.baweja@gmail.com)
-- **GitHub**: [https://github.com/Laksh718/janrakshak](https://github.com/Laksh718/janrakshak)
+- **GitHub**: [https://github.com/Laksh718/Mahadevs-submission.git](https://github.com/Laksh718/Mahadevs-submission.git)
 
 ---
 
