@@ -1,0 +1,11 @@
+pandas
+xarray
+numpy
+scikit-learn
+requests
+cftime
+imbalanced-learn
+streamlit
+python-dotenv
+fastapi
+uvicorn[standard]

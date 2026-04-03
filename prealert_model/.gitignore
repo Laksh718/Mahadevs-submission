@@ -1,0 +1,87 @@
+venv/
+.env
+.env.*
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.conda/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test / Coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.cache
+.pytest_cache/
+nosetests.xml
+test_results/
+
+# Model files / large data (usually not pushed to git)
+*.h5
+*.hdf5
+#*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.ckpt
+checkpoints/
+#models/
+saved_models/
+output/
+runs/
+
+# Data files
+data/
+#*.csv
+*.tsv
+*.parquet
+*.feather
+*.npy
+*.npz
+
+# API / server related
+instance/
+*.db
+*.sqlite3
+
+# Environment files
+.env
+*.env
+.env.*
+
+# Node (if frontend exists in same repo)
+node_modules/
+dist/
+build/
+
+# Lock files (optional, can keep if needed)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml

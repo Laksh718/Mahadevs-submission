@@ -1,0 +1,55 @@
+date,location,state
+# 2018 Kerala Floods (Peak widespread flooding period)
+2018-08-15,Idukki,Kerala
+2018-08-15,Wayanad,Kerala
+2018-08-16,Pathanamthitta,Kerala
+2018-08-16,Ernakulam,Kerala
+2018-08-17,Thrissur,Kerala
+2018-08-18,Alappuzha,Kerala
+# 2019 Floods (Focus on Maharashtra & Karnataka)
+2019-08-05,Kolhapur,Maharashtra
+2019-08-06,Kolhapur,Maharashtra
+2019-08-07,Sangli,Maharashtra
+2019-08-08,Sangli,Maharashtra
+2019-08-08,Belagavi,Karnataka
+2019-08-09,Kodagu,Karnataka
+# 2020 Assam Floods (One of the severe waves)
+2020-07-12,Goalpara,Assam
+2020-07-13,Barpeta,Assam
+2020-07-14,Morigaon,Assam
+# 2020 Hyderabad Floods
+2020-10-13,Hyderabad,Telangana
+2020-10-14,Hyderabad,Telangana
+# 2020 Cyclone Amphan Floods
+2020-05-20,Kolkata,West Bengal
+2020-05-21,Kolkata,West Bengal
+# 2021 Monsoon Floods
+2021-09-29,Kolkata,West Bengal
+2021-09-30,Kolkata,West Bengal
+# 2021 Uttarakhand Glacier Outburst Flood
+2021-02-07,Chamoli,Uttarakhand
+# 2021 Maharashtra Floods
+2021-07-22,Raigad,Maharashtra
+2021-07-23,Chiplun,Maharashtra
+2021-07-23,Satara,Maharashtra
+# 2022 Assam Floods (Major pre-monsoon wave)
+2022-05-25,Silchar,Assam
+2022-05-26,Hojai,Assam
+2022-06-17,Nalbari,Assam
+# 2022 Balrampur (UP) Floods
+2022-10-11,Balrampur,Uttar Pradesh
+2022-10-12,Balrampur,Uttar Pradesh
+# 2023 North India Floods (Urban flooding and river overflow)
+2023-07-09,Kullu,Himachal Pradesh
+2023-07-10,Mandi,Himachal Pradesh
+2023-07-11,Delhi,Delhi
+2023-07-12,Chandigarh,Punjab
+# 2023 Chennai Floods (Cyclone Michaung)
+2023-12-04,Chennai,Tamil Nadu
+2023-12-05,Chennai,Tamil Nadu
+# 2023 South Tamil Nadu Floods
+2023-12-17,Thoothukudi,Tamil Nadu
+2023-12-18,Tirunelveli,Tamil Nadu
+# 2024 Wayanad Landslides & Floods
+2024-07-30,Wayanad,Kerala
+2024-07-31,Wayanad,Kerala
