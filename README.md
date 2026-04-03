@@ -112,69 +112,6 @@
 
 ## Project Structure
 
-```
-janrakshak/
-├── public/                   # Static assets
-│   ├── favicon.svg              # App icon
-│   └── index.html               # HTML template
-├── src/
-│   ├── components/           # Reusable UI components
-│   │   ├── ui/              # Base UI components (buttons, cards, etc.)
-│   │   ├── Layout.tsx          # Main application layout
-│   │   ├── AdminLayout.tsx     # Admin panel layout
-│   │   ├── UserLayout.tsx      # User-specific layout
-│   │   ├── ProtectedRoute.tsx  # Authentication wrapper
-│   │   ├── AdminProtectedRoute.tsx # Admin authentication wrapper
-│   │   ├── FloodPrediction.tsx # User flood prediction component
-│   │   ├── AdminFloodPrediction.tsx # Admin flood prediction component
-│   │   └── LoadingScreen.tsx   # Loading screen component
-│   ├── contexts/            # React context providers
-│   │   ├── AuthContext.tsx     # Firebase authentication state
-│   │   ├── SupabaseAuthContext.tsx # Supabase authentication state
-│   │   └── SupabaseAuthContextMinimal.tsx # Minimal Supabase auth
-│   ├── hooks/               # Custom React hooks
-│   │   ├── useLocation.ts      # Geolocation hook
-│   │   ├── useLocalStorage.ts  # Local storage hook
-│   │   └── useInteractiveMap.ts # Interactive map hook
-│   ├── lib/                 # Utility libraries and configurations
-│   │   ├── firebase.ts         # Firebase configuration and helpers
-│   │   ├── supabase.ts         # Supabase client and database functions
-│   │   ├── adminSupabase.ts    # Admin-specific Supabase functions
-│   │   ├── floodPredictionService.ts # Flood prediction API service
-│   │   ├── locationService.ts  # Geolocation and geocoding services
-│   │   ├── weatherAPI.ts       # Weather data integration
-│   │   ├── indianShelterData.ts # Indian shelter database
-│   │   └── utils.ts            # General utility functions
-│   ├── pages/               # Application pages/routes
-│   │   ├── Landing.tsx         # Public landing page
-│   │   ├── Auth.tsx            # Firebase authentication page
-│   │   ├── SupabaseAuth.tsx    # Supabase authentication page
-│   │   ├── UserDashboard.tsx   # User dashboard
-│   │   ├── FloodPredictionPage.tsx # User flood prediction page
-│   │   ├── AdminFloodPrediction.tsx # Admin flood prediction page
-│   │   ├── AdminDashboard.tsx  # Admin dashboard
-│   │   ├── AdminReports.tsx    # Admin reports management with dynamic maps
-│   │   ├── AdminAlerts.tsx     # Admin alerts management
-│   │   ├── Predictions.tsx     # Flood predictions and forecasts
-│   │   ├── Alerts.tsx          # Emergency alerts and notifications
-│   │   ├── Reports.tsx         # Community incident reports
-│   │   ├── Assessment.tsx      # Damage assessment tools
-│   │   ├── Planning.tsx        # Emergency evacuation planning
-│   │   ├── Profile.tsx         # User profile and settings
-│   │   └── NotFound.tsx        # 404 error page
-│   ├── services/             # External service integrations
-│   │   └── floodPredictionAPI.py # Python API for flood prediction
-│   ├── App.tsx               # Main application component
-│   ├── main.tsx              # Application entry point
-│   └── index.css             # Global styles and Tailwind imports
-├── firebase.json             # Firebase configuration
-├── firestore.rules           # Firestore security rules
-├── storage.rules             # Firebase storage security rules
-├── package.json              # Project dependencies and scripts
-├── tailwind.config.ts        # Tailwind CSS configuration
-├── vite.config.ts            # Vite build configuration
-└── tsconfig.json             # TypeScript configuration
-```
 
 ## API Documentation
 
@@ -249,7 +186,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Connect With Us
 - **Website**: [https://janrakshak.web.app](https://janrakshak.web.app)
 - **Email**: [laksh.baweja@gmail.com](mailto:laksh.baweja@gmail.com)
-- **GitHub**: [https://github.com/Laksh718/janrakshak](https://github.com/Laksh718/janrakshak)
 
 ---
 
