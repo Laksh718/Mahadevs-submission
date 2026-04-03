@@ -44,7 +44,7 @@ test_results/
 # Model files / large data (usually not pushed to git)
 *.h5
 *.hdf5
-*.pkl
+#*.pkl
 *.joblib
 *.pt
 *.pth
@@ -52,14 +52,14 @@ test_results/
 *.tflite
 *.ckpt
 checkpoints/
-models/
+#models/
 saved_models/
 output/
 runs/
 
 # Data files
 data/
-*.csv
+#*.csv
 *.tsv
 *.parquet
 *.feather
